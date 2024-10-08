@@ -3,7 +3,7 @@
 
 This repo is just getting started, so if there are samples or some demos you would like to see let us know by opening an issue!
 
-#Current Sample Ideas
+# Current Sample Ideas
 - Ingesting data from MQTT
 - Ingesting data from on prem kafka
 - Using data activator to invoke a custom workflow in Power Automate
